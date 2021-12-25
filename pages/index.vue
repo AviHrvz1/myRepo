@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        exampleapp-frontend1111
+        exampleapp-frontend2222
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
